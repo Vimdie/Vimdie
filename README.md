@@ -14,9 +14,11 @@
 
 🎓 Final-year student in **Statistical and Economic Engineering (ISE)** at **ENSAE Pierre Ndiaye, Dakar**.
 
-📈 Passionate about **data science, AI, development economics and biostatistics** — I believe good data, well used, can drive real change.
+📈 Passionate about **data science, AI, development economics and biostatistics**. I believe good data, well used, can drive real change.
 
-🚀 I like building projects at the intersection of **statistics, machine learning and social impact** to make better change happen.
+🚀 I like building projects at the intersection of **statistics, AI and social impact** to make better change happen.
+
+THE GOAL IS TO IMPACT.
 
 <div align="center">
 
