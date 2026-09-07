@@ -60,43 +60,16 @@
 
 | Project | Description | Link |
 |---|---|---|
-| 🏗️ **Sales Data Warehouse — OLIST** | AWS-based warehouse (S3, Glue, Redshift) with real-time ingestion via Kinesis, visualized in Power BI | [Repo](https://github.com/Ben10-som/Data-warehouse-for-sales-analysis-/tree/main) |
+| 🏗️ **Sales Data Warehouse OLIST** | AWS-based warehouse (S3, Glue, Redshift) with real-time ingestion via Kinesis, visualized in Power BI | [Repo](https://github.com/Ben10-som/Data-warehouse-for-sales-analysis-/tree/main) |
 | 🏥 **Medical Cost Prediction (ML)** | Regression models to help insurers anticipate healthcare costs | [Demo](https://sarahlaure.github.io/Analyse_Assurance_Sante/) · [Repo](https://github.com/nncelina/ML_medical-coasts) |
 | 🌍 **Country Clustering for HELP NGO** | Socio-economic & health indicators used to prioritize aid allocation to vulnerable countries | [Repo](https://github.com/Vimdie/clustering_countries) |
 | 📋 **Survey Generator with R** | Exploring Shiny, ShinyForms & ShinySurvey for questionnaire design | [App](http://vimdie.shinyapps.io/SURVEY/) · [Repo](https://github.com/ameth08faye/Questionnaire-enquete-avec-R) |
-| 📈 **Senegal's Quarterly GDP (2008–2025)** | Time series modeling and forecasting of national GDP | — |
+| 📈 **Senegal's Quarterly GDP (2008–2025)** | Time series modeling and forecasting of national GDP |-|
 | 🚗 **Commute Optimization: Keur Massar ↔ Dakar** | Predictive modeling with CETUD data, Google Maps API & OSMData | [App](https://oscarshiny.shinyapps.io/Projet_optimisation/) |
 
 ---
 
-## 💼 Field Experience
 
-**Survey Enumerator — ANSD/UNHCR** · Matam, Senegal · 2026
-Household living conditions survey for refugees, using KoboCollect
-
-**Survey Enumerator — BMN/ANSD** · Dakar, Senegal · 2025–2026
-Impact monitoring for the enterprise upgrading program, using CSPro
-
----
-
-## 🏆 Accomplishments
-
-<div align="center">
-
-![](https://github-trophies.vercel.app/?username=Vimdie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-🎤 **Sponsorship & Partnership Coordinator** — Hult Prize National Stage, Senegal *(Jan–May 2026)*
-Secured partnerships with major institutions (UNESCO, WAVE Digital Finance) for the world's largest social entrepreneurship competition
-
-📜 **MEAL Essentials** — Disaster Ready Organization *(2024)*
-Certified in Monitoring, Evaluation, Accountability & Learning fundamentals
-
-🌎 **English Access Microscholarship Program** — U.S. Embassy Senegal *(2018)*
-Intensive English language training
-
----
 
 ## 📊 GitHub Stats
 
