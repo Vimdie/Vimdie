@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Ndeye Ramatoulaye Ndoye Fall
+# Hi 👋, I'm Ndeye Ramatoulaye Ndoye FALL
 
-### 📊 Statistical & Economic Engineering Student, ENSAE Dakar
+### 📊 Statistical & Economic Engineering Student - ENSAE Dakar
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Data+Science+%26+AI;Development+Economics+%2B+Biostatistics;Open+to+collaborations)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 
 🎓 Final-year student in **Statistical and Economic Engineering (ISE)** at **ENSAE Pierre Ndiaye, Dakar**.
 
-📈 Passionate about **data science, AI, development economics and biostatistics**. I believe good data, well used, can drive real change.
+📈 Passionate about **data science, AI, development economics and biostatistics** — I believe good data, well used, can drive real change.
 
 🚀 I like building projects at the intersection of **statistics, machine learning and social impact** to make better change happen.
 
@@ -37,6 +37,8 @@
 ### Languages
 ![R](https://img.shields.io/badge/R-6A5ACD?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-191970?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-6A5ACD?style=for-the-badge&logo=html5&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-191970?style=for-the-badge)
 ![VBA](https://img.shields.io/badge/VBA-6A5ACD?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Data & Statistics
@@ -64,12 +66,22 @@
 | 🏥 **Medical Cost Prediction (ML)** | Regression models to help insurers anticipate healthcare costs | [Demo](https://sarahlaure.github.io/Analyse_Assurance_Sante/) · [Repo](https://github.com/nncelina/ML_medical-coasts) |
 | 🌍 **Country Clustering for HELP NGO** | Socio-economic & health indicators used to prioritize aid allocation to vulnerable countries | [Repo](https://github.com/Vimdie/clustering_countries) |
 | 📋 **Survey Generator with R** | Exploring Shiny, ShinyForms & ShinySurvey for questionnaire design | [App](http://vimdie.shinyapps.io/SURVEY/) · [Repo](https://github.com/ameth08faye/Questionnaire-enquete-avec-R) |
-| 📈 **Senegal's Quarterly GDP (2008–2025)** | Time series modeling and forecasting of national GDP |-|
+| 📈 **Senegal's Quarterly GDP (2008–2025)** | Time series modeling and forecasting of national GDP | — |
 | 🚗 **Commute Optimization: Keur Massar ↔ Dakar** | Predictive modeling with CETUD data, Google Maps API & OSMData | [App](https://oscarshiny.shinyapps.io/Projet_optimisation/) |
 
 ---
 
 
+## 🏆 Accomplishments
+
+<div align="center">
+
+![](https://github-trophies.vercel.app/?username=Vimdie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=1)
+
+</div>
+
+
+---
 
 ## 📊 GitHub Stats
 
