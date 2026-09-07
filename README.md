@@ -18,11 +18,12 @@
 
 🚀 I like building projects at the intersection of **statistics, AI and social impact** to make better change happen.
 
-THE GOAL IS TO IMPACT.
 
 <div align="center">
 
 ### 🌐 Let's Connect
+
+THE GOAL IS TO IMPACT.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndeye-ramatoulaye-ndoye-fall-56a234270/)
 [![Email](https://img.shields.io/badge/Email-191970?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramafall1005@gmail.com)
