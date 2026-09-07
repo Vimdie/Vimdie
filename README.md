@@ -46,6 +46,7 @@ THE GOAL IS TO IMPACT.
 
 ### Data & Statistics
 ![RStudio](https://img.shields.io/badge/RStudio-191970?style=for-the-badge&logo=rstudio&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-6A5ACD?style=for-the-badge)
 ![SPSS](https://img.shields.io/badge/SPSS-191970?style=for-the-badge)
 ![CSPro](https://img.shields.io/badge/CSPro-6A5ACD?style=for-the-badge)
@@ -56,6 +57,10 @@ THE GOAL IS TO IMPACT.
 ![AWS](https://img.shields.io/badge/AWS-191970?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-6A5ACD?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Shiny](https://img.shields.io/badge/R_Shiny-191970?style=for-the-badge&logo=r&logoColor=white)
+
+
+### Design
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -90,10 +95,11 @@ THE GOAL IS TO IMPACT.
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vimdie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimdie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=C9D1D9&layout=compact" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=AliouneKane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliouneKane&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&layout=compact&langs_count=8" />
 
 </div>
+
 
 ---
 
